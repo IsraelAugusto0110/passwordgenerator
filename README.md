@@ -8,3 +8,5 @@ Uma aplicação simples para geração de senhas fortes
 
 - ReactJs
 - Vite
+
+<img src="./src/assets/passwordapp.gif" width=500 />
